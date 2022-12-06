@@ -818,7 +818,7 @@ var vnData = {
       "Page90": {
         "Background": "img/boyroom.png",
         "Sprite": "img/boy4.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(Next to her was the man and she was smiling brightly)"
@@ -827,7 +827,7 @@ var vnData = {
       "Page91": {
         "Background": "img/boyroom.png",
         "Sprite": "img/boy4.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(The boy noticed that he never had seen her smiling brightly like that)"
@@ -836,7 +836,7 @@ var vnData = {
       "Page92": {
         "Background": "img/boyroom.png",
         "Sprite": "img/boy4.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(The boy's chest felt stuffy and tight)"
@@ -845,7 +845,7 @@ var vnData = {
       "Page93": {
         "Background": "img/boyroom.png",
         "Sprite": "img/boy4.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(The boy felt nauseous for a moment and looked at it so blankly)"
@@ -854,7 +854,7 @@ var vnData = {
       "Page94": {
         "Background": "img/boyroom.png",
         "Sprite": "img/emptyImage.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(The boy quietly entered the class and put the textbook on her desk without anyone knowing it)"
@@ -863,7 +863,7 @@ var vnData = {
       "Page95": {
         "Background": "img/boyroom.png",
         "Sprite": "img/emptyImage.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(The boy quietly returned to his class)"
@@ -872,7 +872,7 @@ var vnData = {
       "Page96": {
         "Background": "img/boyroom.png",
         "Sprite": "img/emptyImage.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "('These two.. looked great..' that was what boy thought)"
@@ -881,7 +881,7 @@ var vnData = {
       "Page97": {
         "Background": "img/boyroom.png",
         "Sprite": "img/emptyImage.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(The boy respected her happiness instead of the boy's)"
@@ -890,7 +890,7 @@ var vnData = {
       "Page98": {
         "Background": "img/boyroom.png",
         "Sprite": "img/emptyImage.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(.........)"
@@ -899,7 +899,7 @@ var vnData = {
       "Page99": {
         "Background": "img/boyroom.png",
         "Sprite": "img/emptyImage.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(After that, the boy decided not to borrow a book anymore)"
@@ -908,7 +908,7 @@ var vnData = {
       "Page100": {
         "Background": "img/boyroom.png",
         "Sprite": "img/emptyImage.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": " (For some reason, the boy wasn't sure to see her anymore)"
@@ -917,7 +917,7 @@ var vnData = {
       "Page101": {
         "Background": "img/boyroom.png",
         "Sprite": "img/emptyImage.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(And then a month later, one day..)"
@@ -926,7 +926,7 @@ var vnData = {
       "Page102": {
         "Background": "img/boyroom.png",
         "Sprite": "img/boy1.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(The boy had to drop by to see a friend in her class)"
@@ -935,7 +935,7 @@ var vnData = {
       "Page103": {
         "Background": "img/boyroom.png",
         "Sprite": "img/boy1.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(It was still the same mood of class as usual)"
@@ -944,7 +944,7 @@ var vnData = {
       "Page104": {
         "Background": "img/boyroom.png",
         "Sprite": "img/boy1.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/emptyImage.png",
         "PageText": "(The boy's friend was not in sight, and fortunately, she was not in sight too)"
@@ -953,7 +953,7 @@ var vnData = {
       "Page105": {
         "Background": "img/boyroom.png",
         "Sprite": "img/boy1.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/man1.png",
         "PageText": "(While the boy was waiting for his friend.. the boy and the man contacted eyes)"
@@ -989,7 +989,7 @@ var vnData = {
       "Page109": {
         "Background": "img/boyroom.png",
         "Sprite": "img/boy4.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/man1.png",
         "PageText": "- Hey, are there any problems?"
@@ -998,7 +998,7 @@ var vnData = {
       "Page110": {
         "Background": "img/boyroom.png",
         "Sprite": "img/boy4.png",
-        "Sprite2": "img/EmptyImage.png",
+        "Sprite2": "img/emptyImage.png",
         "darkRight": "img/emptyImage.png",
         "darkLeft": "img/man1.png",
         "PageText": "(Normally, the boy would have just ignored it, but the boy felt bad because the boy felt like the man was looking down at him)"
